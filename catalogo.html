@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo — Casa das Peças</title>
+  <meta name="description" content="Catálogo completo de peças automotivas para caminhão e carro. Pastilhas, filtros, amortecedores e mais.">
+
+  <style>
+    :root{
+      --accent:#1ddc5c;
+      --muted:#6b7280;
+      --bg:#f8fafc;
+      --card:#ffffff;
+      --radius:14px;
+      --container:1200px;
+      font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    }
+
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:#0f172a;line-height:1.5}
+    .container{max-width:var(--container);margin:0 auto;padding:24px}
+
+    /* Header */
+    header{background:#fff;border-bottom:1px solid #e6edf3}
+    .top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 24px}
+    .brand{font-weight:800;color:var(--accent);font-size:20px}
+    nav a{margin-right:16px;color:var(--muted);text-decoration:none;font-weight:500}
+    nav a:hover{color:var(--accent)}
+
+    /* Filters */
+    .filters{margin-top:30px;display:flex;flex-wrap:wrap;gap:12px}
+    select,input{padding:10px 12px;border:1px solid #e6edf3;border-radius:8px;background:#fff;font-size:14px}
+    input{flex:1;min-width:240px}
+
+    /* Grid */
+    .grid{margin-top:28px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+    .card{background:var(--card);border-radius:12px;border:1px solid #e6edf3;overflow:hidden;transition:transform 0.2s,box-shadow 0.2s}
+    .card:hover{transform:translateY(-4px);box-shadow:0 4px 14px rgba(0,0,0,0.1)}
+    .card img{width:100%;height:180px;object-fit:cover;display:block}
+    .body{padding:14px}
+    .body h3{margin:0 0 6px;font-size:17px;color:#111}
+    .price{font-weight:700;color:#111}
+    .add{background:var(--accent);color:#fff;border:0;padding:8px 12px;border-radius:8px;margin-top:10px;cursor:pointer;font-weight:600}
+    .add:hover{opacity:0.9}
+
+    /* Footer */
+    footer{margin-top:40px;padding:20px;text-align:center;color:var(--muted);border-top:1px solid #e6edf3;background:#fff}
+
+    @media(max-width:768px){
+      .top{flex-direction:column;align-items:flex-start}
+      nav a{margin:6px 12px 0 0;display:inline-block}
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container top">
+      <div style="display:flex;align-items:center;gap:18px">
+        <div class="brand">Casa das Peças</div>
+        <nav class="desktop-nav">
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="contato.html">Contato</a>
+          <a href="catalogo.html" style="color:var(--accent);font-weight:700;">Catálogo</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1 style="font-size:26px;margin-bottom:10px;">Catálogo Completo</h1>
+    <p style="color:var(--muted)">Filtre por categoria, tipo de veículo ou busque pelo código da peça.</p>
+
+    <div class="filters">
+      <select>
+        <option>Categoria</option>
+        <option>Freio</option>
+        <option>Suspensão</option>
+        <option>Motor</option>
+        <option>Filtros</option>
+      </select>
+
+      <select>
+        <option>Tipo de veículo</option>
+        <option>Caminhão</option>
+        <option>Carro</option>
+        <option>SUV</option>
+      </select>
+
+      <input type="text" placeholder="Buscar código ou modelo...">
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1542362567-b07e54358753?q=80&w=1200&auto=format" alt="Pastilha de Freio">
+        <div class="body">
+          <h3>Pastilha de Freio</h3>
+          <div class="price">R$ 129,90</div>
+          <button class="add">Adicionar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=1200&auto=format" alt="Filtro de Óleo">
+        <div class="body">
+          <h3>Filtro de Óleo</h3>
+          <div class="price">R$ 39,90</div>
+          <button class="add">Adicionar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=1200&auto=format" alt="Amortecedor">
+        <div class="body">
+          <h3>Amortecedor</h3>
+          <div class="price">R$ 299,90</div>
+          <button class="add">Adicionar</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=1200&auto=format" alt="Velas de Ignição">
+        <div class="body">
+          <h3>Velas de Ignição</h3>
+          <div class="price">R$ 59,90</div>
+          <button class="add">Adicionar</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    © <script>document.write(new Date().getFullYear())</script> Casa das Peças — Todos os direitos reservados.
+  </footer>
+</body>
+</html>

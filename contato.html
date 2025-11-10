@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato — Casa das Peças</title>
+
+  <style>
+    :root{
+      --accent:#1ddc5c;
+      --muted:#6b7280;
+      --bg:#f8fafc;
+      --card:#ffffff;
+      --radius:14px;
+      --container:1200px;
+      font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    }
+
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:#0f172a;line-height:1.5}
+    .container{max-width:var(--container);margin:0 auto;padding:24px}
+
+    header{background:#fff;border-bottom:1px solid #e6edf3}
+    .top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 24px}
+    .brand{font-weight:800;color:var(--accent);font-size:20px}
+    nav a{margin-right:16px;color:var(--muted);text-decoration:none;font-weight:500}
+    nav a:hover{color:var(--accent)}
+
+    h1{font-size:26px;margin-bottom:10px}
+    p{color:var(--muted)}
+
+    form{background:var(--card);padding:20px;border-radius:12px;border:1px solid #e6edf3;margin-top:20px;max-width:600px}
+    label{display:block;margin-bottom:6px;color:var(--muted)}
+    input,textarea{width:100%;padding:10px;border:1px solid #e6edf3;border-radius:8px;margin-bottom:14px}
+    textarea{min-height:110px}
+    .btn{background:var(--accent);color:#fff;padding:10px 14px;border-radius:8px;border:0;cursor:pointer;font-weight:600}
+    .btn:hover{opacity:0.9}
+
+    footer{margin-top:40px;padding:20px;text-align:center;color:var(--muted);border-top:1px solid #e6edf3;background:#fff}
+
+    @media(max-width:768px){
+      .top{flex-direction:column;align-items:flex-start}
+      nav a{margin:6px 12px 0 0;display:inline-block}
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container top">
+      <div style="display:flex;align-items:center;gap:18px">
+        <div class="brand">Casa das Peças</div>
+        <nav class="desktop-nav">
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="contato.html" style="color:var(--accent);font-weight:700;">Contato</a>
+          <a href="catalogo.html">Catálogo</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Fale Conosco</h1>
+    <p>Envie sua dúvida ou solicite um orçamento. Retornaremos o mais breve possível.</p>
+
+    <form onsubmit="event.preventDefault(); alert('Mensagem enviada (simulada).');">
+      <label for="nome">Nome</label>
+      <input id="nome" placeholder="Seu nome" required>
+
+      <label for="email">E-mail / WhatsApp</label>
+      <input id="email" placeholder="contato@exemplo.com" required>
+
+      <label for="msg">Mensagem</label>
+      <textarea id="msg" placeholder="Descreva a peça ou o problema" required></textarea>
+
+      <button class="btn" type="submit">Enviar mensagem</button>
+    </form>
+
+    <div style="margin-top:20px;color:var(--muted);line-height:1.8">
+      <p><strong>Endereço:</strong> Rua Exemplo, 123 — Bairro</p>
+      <p><strong>Horário:</strong> Seg–Sex 8:00–18:00</p>
+      <p><strong>WhatsApp:</strong> (00) 9 0000-0000</p>
+    </div>
+  </main>
+
+  <footer>
+    © <script>document.write(new Date().getFullYear())</script> Casa das Peças — Todos os direitos reservados.
+  </footer>
+</body>
+</html>
