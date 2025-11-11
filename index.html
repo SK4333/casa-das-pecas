@@ -1,286 +1,59 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Casa das Peças — Peças para caminhão e carro</title>
-  <meta name="description" content="Casa das Peças — catálogo de peças automotivas. Pastilhas, filtros, amortecedores e mais." />
-
-  <link rel="preconnect" href="https://images.unsplash.com" />
-
-  <style>
-    :root{
-      --accent:#1ddc5c; /* indigo-600 */
-      --muted:#6b7280; /* gray-500 */
-      --bg:#f8fafc; /* gray-50 */
-      --card:#ffffff;
-      --radius:14px;
-      --container:1200px;
-      font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-    }
-
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:#0f172a;line-height:1.45}
-    .container{max-width:var(--container);margin:0 auto;padding:24px}
-
-    /* Topbar */
-    header{background:#fff;border-bottom:1px solid #e6edf3}
-    .top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 24px}
-    .brand{font-weight:800;color:var(--accent);font-size:20px}
-    nav a{margin-right:16px;color:var(--muted);text-decoration:none}
-    nav a:hover{color:var(--accent)}
-    .search{display:flex;gap:8px;align-items:center}
-    .search input{padding:8px 12px;border:1px solid #e6edf3;border-radius:8px;width:260px}
-    .btn{background:var(--accent);color:#fff;padding:8px 12px;border-radius:10px;border:0;cursor:pointer}
-
-    /* Hero */
-    .hero{display:grid;grid-template-columns:1fr;gap:20px;background:linear-gradient(90deg,var(--accent),#7c3aed);color:#fff;padding:56px 24px;border-radius:16px;margin-top:18px}
-    .hero-inner{max-width:720px}
-    .hero h1{font-size:34px;margin:0 0 12px}
-    .hero p{opacity:0.95;margin:0 0 18px;color:rgba(255,255,255,0.92)}
-    .hero-actions{display:flex;gap:12px}
-    .btn-ghost{background:transparent;border:1px solid rgba(255,255,255,0.18);padding:10px 14px;border-radius:10px;color:#fff}
-    .hero-figure{display:block;border-radius:14px;overflow:hidden;box-shadow:0 12px 30px rgba(2,6,23,0.4)}
-    .hero-figure img{width:100%;height:100%;display:block;object-fit:cover}
-
-    /* Produtos */
-    .section{margin-top:28px}
-    .section h2{font-size:22px;margin:0 0 8px}
-    .products{display:grid;grid-template-columns:repeat(1,1fr);gap:16px;margin-top:14px}
-    .card{background:var(--card);border-radius:12px;padding:0;overflow:hidden;border:1px solid #e6edf3}
-    .card .img{height:180px;overflow:hidden}
-    .card img{width:100%;height:100%;object-fit:cover;display:block}
-    .card .body{padding:12px}
-    .price{font-weight:700}
-    .card .meta{display:flex;justify-content:space-between;align-items:center;margin-top:8px}
-    .add{background:var(--accent);color:#fff;padding:8px 10px;border-radius:8px;border:0;cursor:pointer}
-
-    /* Features */
-    .features{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:18px}
-    .feature{background:var(--card);padding:18px;border-radius:12px;border:1px solid #e6edf3}
-
-    /* Contact */
-    .contact{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px}
-    form{background:var(--card);padding:18px;border-radius:12px;border:1px solid #e6edf3}
-    label{display:block;font-size:13px;margin-bottom:6px;color:var(--muted)}
-    input,textarea{width:100%;padding:10px;border:1px solid #e6edf3;border-radius:8px}
-    textarea{min-height:110px}
-
-    footer{margin-top:28px;padding:18px 0;color:#475569}
-
-    /* Responsive */
-    @media(min-width:768px){
-      .hero{grid-template-columns:1fr 420px;padding:64px}
-      .products{grid-template-columns:repeat(2,1fr)}
-    }
-    @media(min-width:1024px){
-      .products{grid-template-columns:repeat(4,1fr)}
-      .features{grid-template-columns:repeat(3,1fr)}
-    }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Casa das Peças — Início</title>
+<link rel="icon" href="assets/favicon.png" />
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header>
-    <div class="container top">
-      <div style="display:flex;align-items:center;gap:18px">
-        <div class="brand">CASA DAS PECAS IRAI LTDA</div>
-        <nav class="desktop-nav">
-          <a href="#">Início</a>
-          <a href="produtos.html">Produtos</a>
-          <a href="contato.html">Contato</a>
-          <a href="catalogo.html">Catalogo</a>
-          <a href="login.html">Login</a>
-        </nav>
-      </div>
-
-      <div class="search">
-        <input aria-label="buscar" placeholder="Buscar peças, códigos ou modelos" />
-        <button class="btn">Entrar</button>
-      </div>
+<header class="site-header">
+  <div class="container header-inner">
+    <div class="brand">CASA DAS PEÇAS IRAI LTDA</div>
+    <nav class="nav" id="nav">
+      <a href="index.html">Início</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="carrinho.html">Carrinho</a>
+      <a href="contato.html">Contato</a>
+      <a href="login.html">Login</a>
+    </nav>
+    <div class="header-actions">
+      <button id="menuBtn" class="menu-btn" aria-label="Abrir menu">☰</button>
+      <button id="cartBtn" class="cart-btn" title="Carrinho">🛒<span id="cartCount">0</span></button>
     </div>
-  </header>
+  </div>
+</header>
 
-  <main class="container">
-    <section class="hero">
-      <div class="hero-inner">
-        <h1>Peças automotivas para caminhão e carro — entrega rápida</h1>
-        <p>Catálogo direto, atendimento especializado e peças de procedência. Encontre pastilhas, filtros, amortecedores, velas e muito mais.</p>
-        <div class="hero-actions">
-          <a href="#produtos" class="btn" style="text-decoration:none">Ver produtos</a>
-          <a href="#contato" class="btn-ghost" style="text-decoration:none">Solicitar orçamento</a>
-        </div>
+<main class="container">
+  <section class="hero">
+    <div class="hero-left">
+      <h1>Peças automotivas para caminhão  — entrega rápida</h1>
+      <p>Catálogo direto, atendimento especializado e peças de procedência.</p>
+      <a class="btn" href="catalogo.html">Ver catálogo</a>
+      <a class="btn ghost" href="contato.html">Solicitar orçamento</a>
+    </div>
+    <div class="hero-right">
+      <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=1200&auto=format&fit=crop" alt="peças" />
+    </div>
+  </section>
 
-        <div style="margin-top:14px;font-size:14px;color:rgba(255,255,255,0.9)">
-          <strong>WhatsApp:</strong> (00) 00000  &nbsp; • &nbsp; <strong>Telefone:</strong> (00) 9 0000-0000
-        </div>
-      </div>
+  <section class="section">
+    <h2>Produtos em destaque</h2>
+    <div id="featured" class="products-grid"></div>
+  </section>
+</main>
 
-      <div class="hero-figure">
-        <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=1400&auto=format&fit=crop&sat=-100" alt="peças" />
-      </div>
-    </section>
+<!-- WhatsApp floating -->
+<a id="waBtn" class="wa-btn" href="#" target="_blank" aria-label="WhatsApp">💬</a>
 
-    <section id="produtos" class="section">
-      <div style="display:flex;justify-content:space-between;align-items:center">
-        <h2>Produtos em destaque</h2>
-        <a href="catalogo.html" style="color:var(--accent);text-decoration:none">Ver catálogo completo →</a>
-      </div>
+<footer class="site-footer">
+  <div class="container">
+    <div>© <span id="year"></span> Casa das Peças — Todos os direitos reservados.</div>
+    <div>Endereço: Rua Maria dos Anjos 171 — Morada do Sol • WhatsApp: (34)98017451</div>
+  </div>
+</footer>
 
-
-      <div class="products" aria-live="polite">
-        <!-- Produto 1 -->
-        <article class="card">
-          <div class="img"><img src="https://www.guiaviagensbrasil.com/imagens/praia-costa-itacare-ba-9599.jpg" alt="Pastilha de Freio"/></div>
-          <div class="body">
-            <div class="title">Pastilha de Freio</div>
-            <div class="meta"><div class="price">R$ 129,90</div><button class="add">Adicionar</button></div>
-          </div>
-        </article>
-
-        <!-- Produto 2 -->
-        <article class="card">
-          <div class="img"><img src="https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=1200&auto=format&fit=crop&sat=-100" alt="Filtro de Óleo"/></div>
-          <div class="body">
-            <div class="title">Filtro de Óleo</div>
-            <div class="meta"><div class="price">R$ 39,90</div><button class="add">Adicionar</button></div>
-          </div>
-        </article>
-
-        <!-- Produto 3 -->
-        <article class="card">
-          <div class="img"><img src="https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=1200&auto=format&fit=crop&sat=-100" alt="Amortecedor"/></div>
-          <div class="body">
-            <div class="title">Amortecedor</div>
-            <div class="meta"><div class="price">R$ 299,90</div><button class="add">Adicionar</button></div>
-          </div>
-        </article>
-
-        <!-- Produto 4 -->
-        <article class="card">
-          <div class="img"><img src="https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=1200&auto=format&fit=crop&sat=-100" alt="Velas de Ignição"/></div>
-          <div class="body">
-            <div class="title">Velas de Ignição</div>
-            <div class="meta"><div class="price">R$ 59,90</div><button class="add">Adicionar</button></div>
-          </div>
-        </article>
-
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="features">
-        <div class="feature">
-          <strong>Peças originais</strong>
-          <p style="margin-top:8px;color:var(--muted)">Trabalhamos com marcas reconhecidas e garantia de procedência.</p>
-        </div>
-        <div class="feature">
-          <strong>Entrega rápida</strong>
-          <p style="margin-top:8px;color:var(--muted)">Envios para todo o Brasil com opções expressas.</p>
-        </div>
-        <div class="feature">
-          <strong>Suporte técnico</strong>
-          <p style="margin-top:8px;color:var(--muted)">Ajuda para escolher a peça certa pelo modelo do veículo.</p>
-        </div>
-      </div>
-    </section>
-
-    <section id="contato" class="section">
-      <h2>Fale conosco</h2>
-      <div class="contact">
-        <div style="background:linear-gradient(180deg,#fff,#f8fafc);padding:18px;border-radius:12px;border:1px solid #e6edf3">
-          <p style="margin:0 0 8px;color:var(--muted)">Peça um orçamento ou tire dúvidas técnicas. Responderemos em breve.</p>
-          <ul style="padding-left:18px;margin-top:8px;color:var(--muted);font-size:14px">
-            <li><strong>Endereço:</strong> Rua Maria dos Anjos 171 — Bairro:Morada do sol</li>
-            <li><strong>Horário:</strong> Seg–Sex 7:30–18:00</li>
-            <li><strong>WhatsApp:</strong> (34)98017451</li>
-          </ul>
-        </div>
-
-        <form onsubmit="event.preventDefault(); alert('Mensagem enviada (simulada).');">
-          <div style="margin-bottom:10px">
-            <label for="nome">Nome</label>
-            <input id="nome" placeholder="Seu nome" />
-          </div>
-          <div style="margin-bottom:10px">
-            <label for="contato">E‑mail / WhatsApp</label>
-            <input id="contato" placeholder="contato@exemplo.com" />
-          </div>
-          <div style="margin-bottom:10px">
-            <label for="msg">Mensagem</label>
-            <textarea id="msg" placeholder="Descreva a peça ou o problema"></textarea>
-          </div>
-          <div>
-            <button class="btn" type="submit">Enviar mensagem</button>
-          </div>
-        </form>
-      </div>
-    </section>
-
-    <footer>
-      <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap">
-        <div>© <span id="year"></span> Casa das Peças — Todos os direitos reservados.</div>
-        <div style="color:var(--muted)">Desenvolvido por Casa das Peças</div>
-      </div>
-    </footer>
-  </main>
-
-  <script>
-    // ajusta o ano do rodapé
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-  <script>
-  // ---- Carrinho usando localStorage ---- //
-
-  // Carrega o carrinho ou cria vazio
-  let carrinho = JSON.parse(localStorage.getItem("carrinho")) || [];
-
-  // Salva no localStorage
-  function salvarCarrinho() {
-    localStorage.setItem("carrinho", JSON.stringify(carrinho));
-    atualizarBadge();
-  }
-
-  // Adiciona item
-  function adicionarAoCarrinho(nome, preco) {
-    const item = carrinho.find(p => p.nome === nome);
-    if (item) {
-      item.qtd++;
-    } else {
-      carrinho.push({ nome, preco, qtd: 1 });
-    }
-    salvarCarrinho();
-    alert("Adicionado ao carrinho!");
-  }
-
-  // Remove item
-  function removerItem(nome) {
-    carrinho = carrinho.filter(p => p.nome !== nome);
-    salvarCarrinho();
-    renderCarrinho();
-  }
-
-  // Atualiza quantidade
-  function alterarQtd(nome, delta) {
-    const item = carrinho.find(p => p.nome === nome);
-    if (!item) return;
-
-    item.qtd += delta;
-    if (item.qtd <= 0) removerItem(nome);
-
-    salvarCarrinho();
-    renderCarrinho();
-  }
-
-  // Atualiza badge do carrinho (ícone)
-  function atualizarBadge() {
-    const badge = document.getElementById("badge");
-    if (!badge) return;
-    const total = carrinho.reduce((sum, p) => sum + p.qtd, 0);
-    badge.textContent = total;
-  }
-
-  atualizarBadge();
-</script>
-
+<script src="script.js"></script>
 </body>
 </html>

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pastilha de Freio",
+    "price": 129.9,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Filtro de Óleo",
+    "price": 39.9,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Amortecedor",
+    "price": 299.9,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Velas de Ignição",
+    "price": 59.9,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop"
+  }
+]

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Login — Casa das Peças</title>
+<title>Carrinho — Casa das Peças</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,17 +24,24 @@
 </header>
 
 <main class="container">
-  <section class="section auth">
-    <h2>Login</h2>
-    <form id="loginForm" onsubmit="event.preventDefault(); alert('Login simulado (sem backend).');">
-      <label for="user">E‑mail</label>
-      <input id="user" type="email" required />
-      <label for="pass">Senha</label>
-      <input id="pass" type="password" required />
-      <button class="btn">Entrar</button>
-    </form>
+  <section class="section">
+    <h2>Seu carrinho</h2>
+    <div id="cartList"></div>
+    <div class="cart-summary">
+      <div id="cartTotal">Total: R$ 0,00</div>
+      <button id="clearCart" class="btn ghost">Limpar carrinho</button>
+      <button id="checkoutBtn" class="btn">Finalizar via WhatsApp</button>
+    </div>
   </section>
 </main>
+
+<a id="waBtn" class="wa-btn" href="#" target="_blank" aria-label="WhatsApp">💬</a>
+
+<footer class="site-footer">
+  <div class="container">
+    <div>© <span id="year"></span> Casa das Peças — Todos os direitos reservados.</div>
+  </div>
+</footer>
 
 <script src="script.js"></script>
 </body>
