@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Casa das Peças — Início</title>
+<link rel="icon" href="assets/favicon.png" />
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <div class="brand">CASA DAS PEÇAS IRAI LTDA</div>
+    <nav class="nav" id="nav">
+      <a href="index.html">Início</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="carrinho.html">Carrinho</a>
+      <a href="contato.html">Contato</a>
+      <a href="login.html">Login</a>
+    </nav>
+    <div class="header-actions">
+      <button id="menuBtn" class="menu-btn" aria-label="Abrir menu">☰</button>
+      <button id="cartBtn" class="cart-btn" title="Carrinho">🛒<span id="cartCount">0</span></button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <div class="hero-left">
+      <h1>Peças automotivas para caminhão  — entrega rápida</h1>
+      <p>Catálogo direto, atendimento especializado e peças de procedência.</p>
+      <a class="btn" href="catalogo.html">Ver catálogo</a>
+      <a class="btn ghost" href="contato.html">Solicitar orçamento</a>
+    </div>
+    <div class="hero-right">
+      <img src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/473409364_4008252296115357_4910660253505681369_n.jpg?ccb=11-4&oh=01_Q5Aa3AGFAN94NWmhZOLe5DE-1zzg2hi85XLqzDNLK6HizJxwAA&oe=69204FC9&_nc_sid=5e03e0&_nc_cat=101" alt="peças" />
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Produtos em destaque</h2>
+    <div id="featured" class="products-grid"></div>
+  </section>
+</main>
+
+<!-- WhatsApp floating -->
+<a id="waBtn" class="wa-btn" href="#" target="_blank" aria-label="WhatsApp">💬</a>
+
+<footer class="site-footer">
+  <div class="container">
+    <div>© <span id="year"></span> Casa das Peças — Todos os direitos reservados.</div>
+    <div>Endereço: Rua Maria dos Anjos 171 — Morada do Sol • WhatsApp: (34)98017451</div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

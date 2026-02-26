@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Login — Casa das Peças</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <div class="brand">CASA DAS PEÇAS IRAI LTDA</div>
+    <nav class="nav" id="nav">
+      <a href="index.html">Início</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="carrinho.html">Carrinho</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+    <div class="header-actions">
+      <button id="menuBtn" class="menu-btn" aria-label="Abrir menu">☰</button>
+      <button id="cartBtn" class="cart-btn" title="Carrinho">🛒<span id="cartCount">0</span></button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="section auth">
+    <h2>Login</h2>
+    <form id="loginForm" onsubmit="event.preventDefault(); alert('Login simulado (sem backend).');">
+      <label for="user">E‑mail</label>
+      <input id="user" type="email" required />
+      <label for="pass">Senha</label>
+      <input id="pass" type="password" required />
+      <button class="btn">Entrar</button>
+    </form>
+  </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

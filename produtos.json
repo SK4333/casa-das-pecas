@@ -1,0 +1,3077 @@
+[
+  {
+    "id": 1,
+    "name": "Pastilha de Freio",
+    "price": 129.9,
+    "img": "https://m.magazineluiza.com.br/a-static/420x420/kit-pastilha-freio-mercedes-benz-axor-2005-a-2013-dianteira-traseira-knorr-lonaflex-p116/lojahipervarejo/35f533128b5f460e07f9cc5c90132ce1/2c8596bfc46375f45900a4722830ab93.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Filtro Lubrificante",
+    "price": 39.9,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7WtMqBr6zTejIVeIcb8GZfdslmsPNvuVKn-KBFQWouKSO4s1UJciIUhh7Em30tOuklrjs_F2WUs039QQHMo648S8jzK_Kr6j5UUeXpGEBlTzAyqoop21G4OUh-MJ-dVc8o6QqKg&usqp=CAc"
+  },
+  {
+    "id": 3,
+    "name": "Amortecedor",
+    "price": 299.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_601301-MLB72388714357_102023-F.webp"
+  },
+  {
+    "id": 4,
+    "name": "Tambor de Freio",
+    "price": 59.9,
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXMMFQVnFxXnYULsaHD58MK9LToMqnEipn46ycCx_tml7EH6sykFYH3K5TAT3nkK-di3LAb3uhEir_99-S26cpj-RIsAyrwytpvZ9rhCB7KqtN2S1dRQQixQ"
+  },
+  {
+    "id": 5,
+    "name": "Filtro De Ar",
+    "price": 59.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_658183-MLB78388669199_082024-F.webp"
+  },
+  {
+    "id": 6,
+    "name": "Filtro De Combustivel",
+    "price": 59.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_779882-MLB91203473269_082025-F.webp"
+  },
+  {
+    "id": 7,
+    "name": "Parafuso Roda",
+    "price": 59.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_893197-MLB96407142895_102025-F.webp"
+  },
+  {
+    "id": 8,
+    "name": "Suspensao",
+    "price": 59.9,
+    "img": "https://retificaparana.com.br/imgs_produtos/thumb__a5fba-mfeixemola.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rolamento de Roda",
+    "price": 59.9,
+    "img": "https://static.lojabrafer.com.br/public/brafer/imagens/produtos/rolamento-32218-cone-capa-90x160x42-50-timken-55872.png"
+  },
+  {
+    "id": 10,
+    "name": "Disco de Freio",
+    "price": 179.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_840764-MLB74422634576_022024-F.webp"
+  },
+  {
+    "id": 11,
+    "name": "Bateria Automotiva",
+    "price": 489.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_699261-MLB75002038915_032024-F.webp"
+  },
+  {
+    "id": 12,
+    "name": "Kit Embreagem",
+    "price": 649.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_924541-MLB73703291585_012024-F.webp"
+  },
+
+  {
+    "id": 1,
+    "name": "Pastilha de Freio - SKU 001",
+    "price": 133.18,
+    "img": "teste.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Filtro de Óleo - SKU 002",
+    "price": 40.99,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=2"
+  },
+  {
+    "id": 3,
+    "name": "Amortecedor - SKU 003",
+    "price": 301.17,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=3"
+  },
+  {
+    "id": 4,
+    "name": "Velas de Ignição - SKU 004",
+    "price": 58.54,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=4"
+  },
+  {
+    "id": 5,
+    "name": "Bateria Automotiva 60Ah - SKU 005",
+    "price": 534.08,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=5"
+  },
+  {
+    "id": 6,
+    "name": "Pastilha de Freio - SKU 006",
+    "price": 128.81,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=6"
+  },
+  {
+    "id": 7,
+    "name": "Filtro de Óleo - SKU 007",
+    "price": 40.69,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=7"
+  },
+  {
+    "id": 8,
+    "name": "Amortecedor - SKU 008",
+    "price": 308.8,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=8"
+  },
+  {
+    "id": 9,
+    "name": "Velas de Ignição - SKU 009",
+    "price": 60.64,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=9"
+  },
+  {
+    "id": 10,
+    "name": "Bateria Automotiva 60Ah - SKU 010",
+    "price": 540.93,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=10"
+  },
+  {
+    "id": 11,
+    "name": "Pastilha de Freio - SKU 011",
+    "price": 126.0,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=11"
+  },
+  {
+    "id": 12,
+    "name": "Filtro de Óleo - SKU 012",
+    "price": 39.26,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=12"
+  },
+  {
+    "id": 13,
+    "name": "Amortecedor - SKU 013",
+    "price": 303.68,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=13"
+  },
+  {
+    "id": 14,
+    "name": "Velas de Ignição - SKU 014",
+    "price": 61.68,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=14"
+  },
+  {
+    "id": 15,
+    "name": "Bateria Automotiva 60Ah - SKU 015",
+    "price": 560.63,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=15"
+  },
+  {
+    "id": 16,
+    "name": "Pastilha de Freio - SKU 016",
+    "price": 128.78,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=16"
+  },
+  {
+    "id": 17,
+    "name": "Filtro de Óleo - SKU 017",
+    "price": 38.75,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=17"
+  },
+  {
+    "id": 18,
+    "name": "Amortecedor - SKU 018",
+    "price": 293.14,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=18"
+  },
+  {
+    "id": 19,
+    "name": "Velas de Ignição - SKU 019",
+    "price": 60.17,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=19"
+  },
+  {
+    "id": 20,
+    "name": "Bateria Automotiva 60Ah - SKU 020",
+    "price": 564.96,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=20"
+  },
+  {
+    "id": 21,
+    "name": "Pastilha de Freio - SKU 021",
+    "price": 133.16,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=21"
+  },
+  {
+    "id": 22,
+    "name": "Filtro de Óleo - SKU 022",
+    "price": 39.89,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=22"
+  },
+  {
+    "id": 23,
+    "name": "Amortecedor - SKU 023",
+    "price": 292.29,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=23"
+  },
+  {
+    "id": 24,
+    "name": "Velas de Ignição - SKU 024",
+    "price": 58.27,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=24"
+  },
+  {
+    "id": 25,
+    "name": "Bateria Automotiva 60Ah - SKU 025",
+    "price": 547.72,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=25"
+  },
+  {
+    "id": 26,
+    "name": "Pastilha de Freio - SKU 026",
+    "price": 132.87,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=26"
+  },
+  {
+    "id": 27,
+    "name": "Filtro de Óleo - SKU 027",
+    "price": 41.04,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=27"
+  },
+  {
+    "id": 28,
+    "name": "Amortecedor - SKU 028",
+    "price": 302.34,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=28"
+  },
+  {
+    "id": 29,
+    "name": "Velas de Ignição - SKU 029",
+    "price": 58.71,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=29"
+  },
+  {
+    "id": 30,
+    "name": "Bateria Automotiva 60Ah - SKU 030",
+    "price": 533.6,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=30"
+  },
+  {
+    "id": 31,
+    "name": "Pastilha de Freio - SKU 031",
+    "price": 128.33,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=31"
+  },
+  {
+    "id": 32,
+    "name": "Filtro de Óleo - SKU 032",
+    "price": 40.56,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=32"
+  },
+  {
+    "id": 33,
+    "name": "Amortecedor - SKU 033",
+    "price": 308.9,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=33"
+  },
+  {
+    "id": 34,
+    "name": "Velas de Ignição - SKU 034",
+    "price": 60.85,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=34"
+  },
+  {
+    "id": 35,
+    "name": "Bateria Automotiva 60Ah - SKU 035",
+    "price": 542.84,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=35"
+  },
+  {
+    "id": 36,
+    "name": "Pastilha de Freio - SKU 036",
+    "price": 126.04,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=36"
+  },
+  {
+    "id": 37,
+    "name": "Filtro de Óleo - SKU 037",
+    "price": 39.13,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=37"
+  },
+  {
+    "id": 38,
+    "name": "Amortecedor - SKU 038",
+    "price": 302.57,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=38"
+  },
+  {
+    "id": 39,
+    "name": "Velas de Ignição - SKU 039",
+    "price": 61.63,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=39"
+  },
+  {
+    "id": 40,
+    "name": "Bateria Automotiva 60Ah - SKU 040",
+    "price": 562.19,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=40"
+  },
+  {
+    "id": 41,
+    "name": "Pastilha de Freio - SKU 041",
+    "price": 129.28,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=41"
+  },
+  {
+    "id": 42,
+    "name": "Filtro de Óleo - SKU 042",
+    "price": 38.8,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=42"
+  },
+  {
+    "id": 43,
+    "name": "Amortecedor - SKU 043",
+    "price": 292.42,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=43"
+  },
+  {
+    "id": 44,
+    "name": "Velas de Ignição - SKU 044",
+    "price": 59.93,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=44"
+  },
+  {
+    "id": 45,
+    "name": "Bateria Automotiva 60Ah - SKU 045",
+    "price": 563.94,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=45"
+  },
+  {
+    "id": 46,
+    "name": "Pastilha de Freio - SKU 046",
+    "price": 133.41,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=46"
+  },
+  {
+    "id": 47,
+    "name": "Filtro de Óleo - SKU 047",
+    "price": 40.05,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=47"
+  },
+  {
+    "id": 48,
+    "name": "Amortecedor - SKU 048",
+    "price": 292.99,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=48"
+  },
+  {
+    "id": 49,
+    "name": "Velas de Ignição - SKU 049",
+    "price": 58.19,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=49"
+  },
+  {
+    "id": 50,
+    "name": "Bateria Automotiva 60Ah - SKU 050",
+    "price": 545.57,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=50"
+  },
+  {
+    "id": 51,
+    "name": "Pastilha de Freio - SKU 051",
+    "price": 132.51,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=51"
+  },
+  {
+    "id": 52,
+    "name": "Filtro de Óleo - SKU 052",
+    "price": 41.08,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=52"
+  },
+  {
+    "id": 53,
+    "name": "Amortecedor - SKU 053",
+    "price": 303.46,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=53"
+  },
+  {
+    "id": 54,
+    "name": "Velas de Ignição - SKU 054",
+    "price": 58.9,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=54"
+  },
+  {
+    "id": 55,
+    "name": "Bateria Automotiva 60Ah - SKU 055",
+    "price": 533.41,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=55"
+  },
+  {
+    "id": 56,
+    "name": "Pastilha de Freio - SKU 056",
+    "price": 127.87,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=56"
+  },
+  {
+    "id": 57,
+    "name": "Filtro de Óleo - SKU 057",
+    "price": 40.42,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=57"
+  },
+  {
+    "id": 58,
+    "name": "Amortecedor - SKU 058",
+    "price": 308.83,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=58"
+  },
+  {
+    "id": 59,
+    "name": "Velas de Ignição - SKU 059",
+    "price": 61.04,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=59"
+  },
+  {
+    "id": 60,
+    "name": "Bateria Automotiva 60Ah - SKU 060",
+    "price": 544.87,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=60"
+  },
+  {
+    "id": 61,
+    "name": "Pastilha de Freio - SKU 061",
+    "price": 126.14,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=61"
+  },
+  {
+    "id": 62,
+    "name": "Filtro de Óleo - SKU 062",
+    "price": 39.02,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=62"
+  },
+  {
+    "id": 63,
+    "name": "Amortecedor - SKU 063",
+    "price": 301.41,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=63"
+  },
+  {
+    "id": 64,
+    "name": "Velas de Ignição - SKU 064",
+    "price": 61.55,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=64"
+  },
+  {
+    "id": 65,
+    "name": "Bateria Automotiva 60Ah - SKU 065",
+    "price": 563.54,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=65"
+  },
+  {
+    "id": 66,
+    "name": "Pastilha de Freio - SKU 066",
+    "price": 129.8,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=66"
+  },
+  {
+    "id": 67,
+    "name": "Filtro de Óleo - SKU 067",
+    "price": 38.88,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=67"
+  },
+  {
+    "id": 68,
+    "name": "Amortecedor - SKU 068",
+    "price": 291.82,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=68"
+  },
+  {
+    "id": 69,
+    "name": "Velas de Ignição - SKU 069",
+    "price": 59.69,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=69"
+  },
+  {
+    "id": 70,
+    "name": "Bateria Automotiva 60Ah - SKU 070",
+    "price": 562.67,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=70"
+  },
+  {
+    "id": 71,
+    "name": "Pastilha de Freio - SKU 071",
+    "price": 133.61,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=71"
+  },
+  {
+    "id": 72,
+    "name": "Filtro de Óleo - SKU 072",
+    "price": 40.2,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=72"
+  },
+  {
+    "id": 73,
+    "name": "Amortecedor - SKU 073",
+    "price": 293.81,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=73"
+  },
+  {
+    "id": 74,
+    "name": "Velas de Ignição - SKU 074",
+    "price": 58.13,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=74"
+  },
+  {
+    "id": 75,
+    "name": "Bateria Automotiva 60Ah - SKU 075",
+    "price": 543.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=75"
+  },
+  {
+    "id": 76,
+    "name": "Pastilha de Freio - SKU 076",
+    "price": 132.11,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=76"
+  },
+  {
+    "id": 77,
+    "name": "Filtro de Óleo - SKU 077",
+    "price": 41.1,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=77"
+  },
+  {
+    "id": 78,
+    "name": "Amortecedor - SKU 078",
+    "price": 304.52,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=78"
+  },
+  {
+    "id": 79,
+    "name": "Velas de Ignição - SKU 079",
+    "price": 59.1,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=79"
+  },
+  {
+    "id": 80,
+    "name": "Bateria Automotiva 60Ah - SKU 080",
+    "price": 533.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=80"
+  },
+  {
+    "id": 81,
+    "name": "Pastilha de Freio - SKU 081",
+    "price": 127.45,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=81"
+  },
+  {
+    "id": 82,
+    "name": "Filtro de Óleo - SKU 082",
+    "price": 40.27,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=82"
+  },
+  {
+    "id": 83,
+    "name": "Amortecedor - SKU 083",
+    "price": 308.61,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=83"
+  },
+  {
+    "id": 84,
+    "name": "Velas de Ignição - SKU 084",
+    "price": 61.22,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=84"
+  },
+  {
+    "id": 85,
+    "name": "Bateria Automotiva 60Ah - SKU 085",
+    "price": 547.0,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=85"
+  },
+  {
+    "id": 86,
+    "name": "Pastilha de Freio - SKU 086",
+    "price": 126.3,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=86"
+  },
+  {
+    "id": 87,
+    "name": "Filtro de Óleo - SKU 087",
+    "price": 38.92,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=87"
+  },
+  {
+    "id": 88,
+    "name": "Amortecedor - SKU 088",
+    "price": 300.22,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=88"
+  },
+  {
+    "id": 89,
+    "name": "Velas de Ignição - SKU 089",
+    "price": 61.45,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=89"
+  },
+  {
+    "id": 90,
+    "name": "Bateria Automotiva 60Ah - SKU 090",
+    "price": 564.65,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=90"
+  },
+  {
+    "id": 91,
+    "name": "Pastilha de Freio - SKU 091",
+    "price": 130.31,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=91"
+  },
+  {
+    "id": 92,
+    "name": "Filtro de Óleo - SKU 092",
+    "price": 38.97,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=92"
+  },
+  {
+    "id": 93,
+    "name": "Amortecedor - SKU 093",
+    "price": 291.37,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=93"
+  },
+  {
+    "id": 94,
+    "name": "Velas de Ignição - SKU 094",
+    "price": 59.46,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=94"
+  },
+  {
+    "id": 95,
+    "name": "Bateria Automotiva 60Ah - SKU 095",
+    "price": 561.17,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=95"
+  },
+  {
+    "id": 96,
+    "name": "Pastilha de Freio - SKU 096",
+    "price": 133.73,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=96"
+  },
+  {
+    "id": 97,
+    "name": "Filtro de Óleo - SKU 097",
+    "price": 40.35,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=97"
+  },
+  {
+    "id": 98,
+    "name": "Amortecedor - SKU 098",
+    "price": 294.74,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=98"
+  },
+  {
+    "id": 99,
+    "name": "Velas de Ignição - SKU 099",
+    "price": 58.1,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=99"
+  },
+  {
+    "id": 100,
+    "name": "Bateria Automotiva 60Ah - SKU 100",
+    "price": 541.55,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=100"
+  },
+  {
+    "id": 101,
+    "name": "Pastilha de Freio - SKU 101",
+    "price": 131.66,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=101"
+  },
+  {
+    "id": 102,
+    "name": "Filtro de Óleo - SKU 102",
+    "price": 41.09,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=102"
+  },
+  {
+    "id": 103,
+    "name": "Amortecedor - SKU 103",
+    "price": 305.51,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=103"
+  },
+  {
+    "id": 104,
+    "name": "Velas de Ignição - SKU 104",
+    "price": 59.32,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=104"
+  },
+  {
+    "id": 105,
+    "name": "Bateria Automotiva 60Ah - SKU 105",
+    "price": 533.89,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=105"
+  },
+  {
+    "id": 106,
+    "name": "Pastilha de Freio - SKU 106",
+    "price": 127.07,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=106"
+  },
+  {
+    "id": 107,
+    "name": "Filtro de Óleo - SKU 107",
+    "price": 40.12,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=107"
+  },
+  {
+    "id": 108,
+    "name": "Amortecedor - SKU 108",
+    "price": 308.24,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=108"
+  },
+  {
+    "id": 109,
+    "name": "Velas de Ignição - SKU 109",
+    "price": 61.37,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=109"
+  },
+  {
+    "id": 110,
+    "name": "Bateria Automotiva 60Ah - SKU 110",
+    "price": 549.17,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=110"
+  },
+  {
+    "id": 111,
+    "name": "Pastilha de Freio - SKU 111",
+    "price": 126.53,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=111"
+  },
+  {
+    "id": 112,
+    "name": "Filtro de Óleo - SKU 112",
+    "price": 38.83,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=112"
+  },
+  {
+    "id": 113,
+    "name": "Amortecedor - SKU 113",
+    "price": 299.03,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=113"
+  },
+  {
+    "id": 114,
+    "name": "Velas de Ignição - SKU 114",
+    "price": 61.31,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=114"
+  },
+  {
+    "id": 115,
+    "name": "Bateria Automotiva 60Ah - SKU 115",
+    "price": 565.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=115"
+  },
+  {
+    "id": 116,
+    "name": "Pastilha de Freio - SKU 116",
+    "price": 130.82,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=116"
+  },
+  {
+    "id": 117,
+    "name": "Filtro de Óleo - SKU 117",
+    "price": 39.07,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=117"
+  },
+  {
+    "id": 118,
+    "name": "Amortecedor - SKU 118",
+    "price": 291.07,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=118"
+  },
+  {
+    "id": 119,
+    "name": "Velas de Ignição - SKU 119",
+    "price": 59.23,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=119"
+  },
+  {
+    "id": 120,
+    "name": "Bateria Automotiva 60Ah - SKU 120",
+    "price": 559.48,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=120"
+  },
+  {
+    "id": 121,
+    "name": "Pastilha de Freio - SKU 121",
+    "price": 133.79,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=121"
+  },
+  {
+    "id": 122,
+    "name": "Filtro de Óleo - SKU 122",
+    "price": 40.5,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=122"
+  },
+  {
+    "id": 123,
+    "name": "Amortecedor - SKU 123",
+    "price": 295.76,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=123"
+  },
+  {
+    "id": 124,
+    "name": "Velas de Ignição - SKU 124",
+    "price": 58.11,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=124"
+  },
+  {
+    "id": 125,
+    "name": "Bateria Automotiva 60Ah - SKU 125",
+    "price": 539.74,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=125"
+  },
+  {
+    "id": 126,
+    "name": "Pastilha de Freio - SKU 126",
+    "price": 131.19,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=126"
+  },
+  {
+    "id": 127,
+    "name": "Filtro de Óleo - SKU 127",
+    "price": 41.06,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=127"
+  },
+  {
+    "id": 128,
+    "name": "Amortecedor - SKU 128",
+    "price": 306.39,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=128"
+  },
+  {
+    "id": 129,
+    "name": "Velas de Ignição - SKU 129",
+    "price": 59.55,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=129"
+  },
+  {
+    "id": 130,
+    "name": "Bateria Automotiva 60Ah - SKU 130",
+    "price": 534.56,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=130"
+  },
+  {
+    "id": 131,
+    "name": "Pastilha de Freio - SKU 131",
+    "price": 126.74,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=131"
+  },
+  {
+    "id": 132,
+    "name": "Filtro de Óleo - SKU 132",
+    "price": 39.96,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=132"
+  },
+  {
+    "id": 133,
+    "name": "Amortecedor - SKU 133",
+    "price": 307.72,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=133"
+  },
+  {
+    "id": 134,
+    "name": "Velas de Ignição - SKU 134",
+    "price": 61.49,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=134"
+  },
+  {
+    "id": 135,
+    "name": "Bateria Automotiva 60Ah - SKU 135",
+    "price": 551.36,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=135"
+  },
+  {
+    "id": 136,
+    "name": "Pastilha de Freio - SKU 136",
+    "price": 126.82,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=136"
+  },
+  {
+    "id": 137,
+    "name": "Filtro de Óleo - SKU 137",
+    "price": 38.77,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=137"
+  },
+  {
+    "id": 138,
+    "name": "Amortecedor - SKU 138",
+    "price": 297.85,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=138"
+  },
+  {
+    "id": 139,
+    "name": "Velas de Ignição - SKU 139",
+    "price": 61.15,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=139"
+  },
+  {
+    "id": 140,
+    "name": "Bateria Automotiva 60Ah - SKU 140",
+    "price": 566.07,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=140"
+  },
+  {
+    "id": 141,
+    "name": "Pastilha de Freio - SKU 141",
+    "price": 131.32,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=141"
+  },
+  {
+    "id": 142,
+    "name": "Filtro de Óleo - SKU 142",
+    "price": 39.2,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=142"
+  },
+  {
+    "id": 143,
+    "name": "Amortecedor - SKU 143",
+    "price": 290.92,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=143"
+  },
+  {
+    "id": 144,
+    "name": "Velas de Ignição - SKU 144",
+    "price": 59.02,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=144"
+  },
+  {
+    "id": 145,
+    "name": "Bateria Automotiva 60Ah - SKU 145",
+    "price": 557.62,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=145"
+  },
+  {
+    "id": 146,
+    "name": "Pastilha de Freio - SKU 146",
+    "price": 133.78,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=146"
+  },
+  {
+    "id": 147,
+    "name": "Filtro de Óleo - SKU 147",
+    "price": 40.63,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=147"
+  },
+  {
+    "id": 148,
+    "name": "Amortecedor - SKU 148",
+    "price": 296.86,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=148"
+  },
+  {
+    "id": 149,
+    "name": "Velas de Ignição - SKU 149",
+    "price": 58.15,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=149"
+  },
+  {
+    "id": 150,
+    "name": "Bateria Automotiva 60Ah - SKU 150",
+    "price": 538.11,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=150"
+  },
+  {
+    "id": 151,
+    "name": "Pastilha de Freio - SKU 151",
+    "price": 130.69,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=151"
+  },
+  {
+    "id": 152,
+    "name": "Filtro de Óleo - SKU 152",
+    "price": 41.02,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=152"
+  },
+  {
+    "id": 153,
+    "name": "Amortecedor - SKU 153",
+    "price": 307.16,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=153"
+  },
+  {
+    "id": 154,
+    "name": "Velas de Ignição - SKU 154",
+    "price": 59.79,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=154"
+  },
+  {
+    "id": 155,
+    "name": "Bateria Automotiva 60Ah - SKU 155",
+    "price": 535.49,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=155"
+  },
+  {
+    "id": 156,
+    "name": "Pastilha de Freio - SKU 156",
+    "price": 126.46,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=156"
+  },
+  {
+    "id": 157,
+    "name": "Filtro de Óleo - SKU 157",
+    "price": 39.8,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=157"
+  },
+  {
+    "id": 158,
+    "name": "Amortecedor - SKU 158",
+    "price": 307.06,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=158"
+  },
+  {
+    "id": 159,
+    "name": "Velas de Ignição - SKU 159",
+    "price": 61.59,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=159"
+  },
+  {
+    "id": 160,
+    "name": "Bateria Automotiva 60Ah - SKU 160",
+    "price": 553.52,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=160"
+  },
+  {
+    "id": 161,
+    "name": "Pastilha de Freio - SKU 161",
+    "price": 127.16,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=161"
+  },
+  {
+    "id": 162,
+    "name": "Filtro de Óleo - SKU 162",
+    "price": 38.73,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=162"
+  },
+  {
+    "id": 163,
+    "name": "Amortecedor - SKU 163",
+    "price": 296.71,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=163"
+  },
+  {
+    "id": 164,
+    "name": "Velas de Ignição - SKU 164",
+    "price": 60.97,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=164"
+  },
+  {
+    "id": 165,
+    "name": "Bateria Automotiva 60Ah - SKU 165",
+    "price": 566.36,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=165"
+  },
+  {
+    "id": 166,
+    "name": "Pastilha de Freio - SKU 166",
+    "price": 131.78,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=166"
+  },
+  {
+    "id": 167,
+    "name": "Filtro de Óleo - SKU 167",
+    "price": 39.33,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=167"
+  },
+  {
+    "id": 168,
+    "name": "Amortecedor - SKU 168",
+    "price": 290.93,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=168"
+  },
+  {
+    "id": 169,
+    "name": "Velas de Ignição - SKU 169",
+    "price": 58.82,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=169"
+  },
+  {
+    "id": 170,
+    "name": "Bateria Automotiva 60Ah - SKU 170",
+    "price": 555.62,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=170"
+  },
+  {
+    "id": 171,
+    "name": "Pastilha de Freio - SKU 171",
+    "price": 133.71,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=171"
+  },
+  {
+    "id": 172,
+    "name": "Filtro de Óleo - SKU 172",
+    "price": 40.75,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=172"
+  },
+  {
+    "id": 173,
+    "name": "Amortecedor - SKU 173",
+    "price": 298.0,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=173"
+  },
+  {
+    "id": 174,
+    "name": "Velas de Ignição - SKU 174",
+    "price": 58.22,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=174"
+  },
+  {
+    "id": 175,
+    "name": "Bateria Automotiva 60Ah - SKU 175",
+    "price": 536.68,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=175"
+  },
+  {
+    "id": 176,
+    "name": "Pastilha de Freio - SKU 176",
+    "price": 130.18,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=176"
+  },
+  {
+    "id": 177,
+    "name": "Filtro de Óleo - SKU 177",
+    "price": 40.95,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=177"
+  },
+  {
+    "id": 178,
+    "name": "Amortecedor - SKU 178",
+    "price": 307.8,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=178"
+  },
+  {
+    "id": 179,
+    "name": "Velas de Ignição - SKU 179",
+    "price": 60.03,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=179"
+  },
+  {
+    "id": 180,
+    "name": "Bateria Automotiva 60Ah - SKU 180",
+    "price": 536.68,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=180"
+  },
+  {
+    "id": 181,
+    "name": "Pastilha de Freio - SKU 181",
+    "price": 126.25,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=181"
+  },
+  {
+    "id": 182,
+    "name": "Filtro de Óleo - SKU 182",
+    "price": 39.65,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=182"
+  },
+  {
+    "id": 183,
+    "name": "Amortecedor - SKU 183",
+    "price": 306.28,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=183"
+  },
+  {
+    "id": 184,
+    "name": "Velas de Ignição - SKU 184",
+    "price": 61.65,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=184"
+  },
+  {
+    "id": 185,
+    "name": "Bateria Automotiva 60Ah - SKU 185",
+    "price": 555.62,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=185"
+  },
+  {
+    "id": 186,
+    "name": "Pastilha de Freio - SKU 186",
+    "price": 127.55,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=186"
+  },
+  {
+    "id": 187,
+    "name": "Filtro de Óleo - SKU 187",
+    "price": 38.71,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=187"
+  },
+  {
+    "id": 188,
+    "name": "Amortecedor - SKU 188",
+    "price": 295.62,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=188"
+  },
+  {
+    "id": 189,
+    "name": "Velas de Ignição - SKU 189",
+    "price": 60.77,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=189"
+  },
+  {
+    "id": 190,
+    "name": "Bateria Automotiva 60Ah - SKU 190",
+    "price": 566.36,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=190"
+  },
+  {
+    "id": 191,
+    "name": "Pastilha de Freio - SKU 191",
+    "price": 132.22,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=191"
+  },
+  {
+    "id": 192,
+    "name": "Filtro de Óleo - SKU 192",
+    "price": 39.48,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=192"
+  },
+  {
+    "id": 193,
+    "name": "Amortecedor - SKU 193",
+    "price": 291.1,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=193"
+  },
+  {
+    "id": 194,
+    "name": "Velas de Ignição - SKU 194",
+    "price": 58.64,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=194"
+  },
+  {
+    "id": 195,
+    "name": "Bateria Automotiva 60Ah - SKU 195",
+    "price": 553.52,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=195"
+  },
+  {
+    "id": 196,
+    "name": "Pastilha de Freio - SKU 196",
+    "price": 133.56,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=196"
+  },
+  {
+    "id": 197,
+    "name": "Filtro de Óleo - SKU 197",
+    "price": 40.85,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=197"
+  },
+  {
+    "id": 198,
+    "name": "Amortecedor - SKU 198",
+    "price": 299.18,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=198"
+  },
+  {
+    "id": 199,
+    "name": "Velas de Ignição - SKU 199",
+    "price": 58.32,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=199"
+  },
+  {
+    "id": 200,
+    "name": "Bateria Automotiva 60Ah - SKU 200",
+    "price": 535.49,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=200"
+  },
+  {
+    "id": 201,
+    "name": "Pastilha de Freio - SKU 201",
+    "price": 129.66,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=201"
+  },
+  {
+    "id": 202,
+    "name": "Filtro de Óleo - SKU 202",
+    "price": 40.87,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=202"
+  },
+  {
+    "id": 203,
+    "name": "Amortecedor - SKU 203",
+    "price": 308.3,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=203"
+  },
+  {
+    "id": 204,
+    "name": "Velas de Ignição - SKU 204",
+    "price": 60.26,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=204"
+  },
+  {
+    "id": 205,
+    "name": "Bateria Automotiva 60Ah - SKU 205",
+    "price": 538.11,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=205"
+  },
+  {
+    "id": 206,
+    "name": "Pastilha de Freio - SKU 206",
+    "price": 126.1,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=206"
+  },
+  {
+    "id": 207,
+    "name": "Filtro de Óleo - SKU 207",
+    "price": 39.5,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=207"
+  },
+  {
+    "id": 208,
+    "name": "Amortecedor - SKU 208",
+    "price": 305.38,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=208"
+  },
+  {
+    "id": 209,
+    "name": "Velas de Ignição - SKU 209",
+    "price": 61.69,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=209"
+  },
+  {
+    "id": 210,
+    "name": "Bateria Automotiva 60Ah - SKU 210",
+    "price": 557.62,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=210"
+  },
+  {
+    "id": 211,
+    "name": "Pastilha de Freio - SKU 211",
+    "price": 127.99,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=211"
+  },
+  {
+    "id": 212,
+    "name": "Filtro de Óleo - SKU 212",
+    "price": 38.7,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=212"
+  },
+  {
+    "id": 213,
+    "name": "Amortecedor - SKU 213",
+    "price": 294.61,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=213"
+  },
+  {
+    "id": 214,
+    "name": "Velas de Ignição - SKU 214",
+    "price": 60.55,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=214"
+  },
+  {
+    "id": 215,
+    "name": "Bateria Automotiva 60Ah - SKU 215",
+    "price": 566.07,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=215"
+  },
+  {
+    "id": 216,
+    "name": "Pastilha de Freio - SKU 216",
+    "price": 132.61,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=216"
+  },
+  {
+    "id": 217,
+    "name": "Filtro de Óleo - SKU 217",
+    "price": 39.63,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=217"
+  },
+  {
+    "id": 218,
+    "name": "Amortecedor - SKU 218",
+    "price": 291.42,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=218"
+  },
+  {
+    "id": 219,
+    "name": "Velas de Ignição - SKU 219",
+    "price": 58.48,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=219"
+  },
+  {
+    "id": 220,
+    "name": "Bateria Automotiva 60Ah - SKU 220",
+    "price": 551.36,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=220"
+  },
+  {
+    "id": 221,
+    "name": "Pastilha de Freio - SKU 221",
+    "price": 133.35,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=221"
+  },
+  {
+    "id": 222,
+    "name": "Filtro de Óleo - SKU 222",
+    "price": 40.94,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=222"
+  },
+  {
+    "id": 223,
+    "name": "Amortecedor - SKU 223",
+    "price": 300.38,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=223"
+  },
+  {
+    "id": 224,
+    "name": "Velas de Ignição - SKU 224",
+    "price": 58.44,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=224"
+  },
+  {
+    "id": 225,
+    "name": "Bateria Automotiva 60Ah - SKU 225",
+    "price": 534.56,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=225"
+  },
+  {
+    "id": 226,
+    "name": "Pastilha de Freio - SKU 226",
+    "price": 129.15,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=226"
+  },
+  {
+    "id": 227,
+    "name": "Filtro de Óleo - SKU 227",
+    "price": 40.76,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=227"
+  },
+  {
+    "id": 228,
+    "name": "Amortecedor - SKU 228",
+    "price": 308.65,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=228"
+  },
+  {
+    "id": 229,
+    "name": "Velas de Ignição - SKU 229",
+    "price": 60.49,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=229"
+  },
+  {
+    "id": 230,
+    "name": "Bateria Automotiva 60Ah - SKU 230",
+    "price": 539.74,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=230"
+  },
+  {
+    "id": 231,
+    "name": "Pastilha de Freio - SKU 231",
+    "price": 126.02,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=231"
+  },
+  {
+    "id": 232,
+    "name": "Filtro de Óleo - SKU 232",
+    "price": 39.35,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=232"
+  },
+  {
+    "id": 233,
+    "name": "Amortecedor - SKU 233",
+    "price": 304.39,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=233"
+  },
+  {
+    "id": 234,
+    "name": "Velas de Ignição - SKU 234",
+    "price": 61.69,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=234"
+  },
+  {
+    "id": 235,
+    "name": "Bateria Automotiva 60Ah - SKU 235",
+    "price": 559.48,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=235"
+  },
+  {
+    "id": 236,
+    "name": "Pastilha de Freio - SKU 236",
+    "price": 128.45,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=236"
+  },
+  {
+    "id": 237,
+    "name": "Filtro de Óleo - SKU 237",
+    "price": 38.72,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=237"
+  },
+  {
+    "id": 238,
+    "name": "Amortecedor - SKU 238",
+    "price": 293.69,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=238"
+  },
+  {
+    "id": 239,
+    "name": "Velas de Ignição - SKU 239",
+    "price": 60.33,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=239"
+  },
+  {
+    "id": 240,
+    "name": "Bateria Automotiva 60Ah - SKU 240",
+    "price": 565.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=240"
+  },
+  {
+    "id": 241,
+    "name": "Pastilha de Freio - SKU 241",
+    "price": 132.96,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=241"
+  },
+  {
+    "id": 242,
+    "name": "Filtro de Óleo - SKU 242",
+    "price": 39.78,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=242"
+  },
+  {
+    "id": 243,
+    "name": "Amortecedor - SKU 243",
+    "price": 291.89,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=243"
+  },
+  {
+    "id": 244,
+    "name": "Velas de Ignição - SKU 244",
+    "price": 58.35,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=244"
+  },
+  {
+    "id": 245,
+    "name": "Bateria Automotiva 60Ah - SKU 245",
+    "price": 549.17,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=245"
+  },
+  {
+    "id": 246,
+    "name": "Pastilha de Freio - SKU 246",
+    "price": 133.08,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=246"
+  },
+  {
+    "id": 247,
+    "name": "Filtro de Óleo - SKU 247",
+    "price": 41.01,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=247"
+  },
+  {
+    "id": 248,
+    "name": "Amortecedor - SKU 248",
+    "price": 301.56,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=248"
+  },
+  {
+    "id": 249,
+    "name": "Velas de Ignição - SKU 249",
+    "price": 58.59,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=249"
+  },
+  {
+    "id": 250,
+    "name": "Bateria Automotiva 60Ah - SKU 250",
+    "price": 533.89,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=250"
+  },
+  {
+    "id": 251,
+    "name": "Pastilha de Freio - SKU 251",
+    "price": 128.65,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=251"
+  },
+  {
+    "id": 252,
+    "name": "Filtro de Óleo - SKU 252",
+    "price": 40.65,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=252"
+  },
+  {
+    "id": 253,
+    "name": "Amortecedor - SKU 253",
+    "price": 308.85,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=253"
+  },
+  {
+    "id": 254,
+    "name": "Velas de Ignição - SKU 254",
+    "price": 60.71,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=254"
+  },
+  {
+    "id": 255,
+    "name": "Bateria Automotiva 60Ah - SKU 255",
+    "price": 541.55,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=255"
+  },
+  {
+    "id": 256,
+    "name": "Pastilha de Freio - SKU 256",
+    "price": 126.01,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=256"
+  },
+  {
+    "id": 257,
+    "name": "Filtro de Óleo - SKU 257",
+    "price": 39.21,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=257"
+  },
+  {
+    "id": 258,
+    "name": "Amortecedor - SKU 258",
+    "price": 303.32,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=258"
+  },
+  {
+    "id": 259,
+    "name": "Velas de Ignição - SKU 259",
+    "price": 61.67,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=259"
+  },
+  {
+    "id": 260,
+    "name": "Bateria Automotiva 60Ah - SKU 260",
+    "price": 561.17,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=260"
+  },
+  {
+    "id": 261,
+    "name": "Pastilha de Freio - SKU 261",
+    "price": 128.94,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=261"
+  },
+  {
+    "id": 262,
+    "name": "Filtro de Óleo - SKU 262",
+    "price": 38.76,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=262"
+  },
+  {
+    "id": 263,
+    "name": "Amortecedor - SKU 263",
+    "price": 292.89,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=263"
+  },
+  {
+    "id": 264,
+    "name": "Velas de Ignição - SKU 264",
+    "price": 60.09,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=264"
+  },
+  {
+    "id": 265,
+    "name": "Bateria Automotiva 60Ah - SKU 265",
+    "price": 564.65,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=265"
+  },
+  {
+    "id": 266,
+    "name": "Pastilha de Freio - SKU 266",
+    "price": 133.25,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=266"
+  },
+  {
+    "id": 267,
+    "name": "Filtro de Óleo - SKU 267",
+    "price": 39.94,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=267"
+  },
+  {
+    "id": 268,
+    "name": "Amortecedor - SKU 268",
+    "price": 292.51,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=268"
+  },
+  {
+    "id": 269,
+    "name": "Velas de Ignição - SKU 269",
+    "price": 58.24,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=269"
+  },
+  {
+    "id": 270,
+    "name": "Bateria Automotiva 60Ah - SKU 270",
+    "price": 547.0,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=270"
+  },
+  {
+    "id": 271,
+    "name": "Pastilha de Freio - SKU 271",
+    "price": 132.76,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=271"
+  },
+  {
+    "id": 272,
+    "name": "Filtro de Óleo - SKU 272",
+    "price": 41.06,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=272"
+  },
+  {
+    "id": 273,
+    "name": "Amortecedor - SKU 273",
+    "price": 302.72,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=273"
+  },
+  {
+    "id": 274,
+    "name": "Velas de Ignição - SKU 274",
+    "price": 58.77,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=274"
+  },
+  {
+    "id": 275,
+    "name": "Bateria Automotiva 60Ah - SKU 275",
+    "price": 533.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=275"
+  },
+  {
+    "id": 276,
+    "name": "Pastilha de Freio - SKU 276",
+    "price": 128.17,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=276"
+  },
+  {
+    "id": 277,
+    "name": "Filtro de Óleo - SKU 277",
+    "price": 40.52,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=277"
+  },
+  {
+    "id": 278,
+    "name": "Amortecedor - SKU 278",
+    "price": 308.89,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=278"
+  },
+  {
+    "id": 279,
+    "name": "Velas de Ignição - SKU 279",
+    "price": 60.92,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=279"
+  },
+  {
+    "id": 280,
+    "name": "Bateria Automotiva 60Ah - SKU 280",
+    "price": 543.5,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=280"
+  },
+  {
+    "id": 281,
+    "name": "Pastilha de Freio - SKU 281",
+    "price": 126.06,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=281"
+  },
+  {
+    "id": 282,
+    "name": "Filtro de Óleo - SKU 282",
+    "price": 39.09,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=282"
+  },
+  {
+    "id": 283,
+    "name": "Amortecedor - SKU 283",
+    "price": 302.18,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=283"
+  },
+  {
+    "id": 284,
+    "name": "Velas de Ignição - SKU 284",
+    "price": 61.61,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=284"
+  },
+  {
+    "id": 285,
+    "name": "Bateria Automotiva 60Ah - SKU 285",
+    "price": 562.67,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=285"
+  },
+  {
+    "id": 286,
+    "name": "Pastilha de Freio - SKU 286",
+    "price": 129.45,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=286"
+  },
+  {
+    "id": 287,
+    "name": "Filtro de Óleo - SKU 287",
+    "price": 38.83,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=287"
+  },
+  {
+    "id": 288,
+    "name": "Amortecedor - SKU 288",
+    "price": 292.2,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=288"
+  },
+  {
+    "id": 289,
+    "name": "Velas de Ignição - SKU 289",
+    "price": 59.85,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=289"
+  },
+  {
+    "id": 290,
+    "name": "Bateria Automotiva 60Ah - SKU 290",
+    "price": 563.54,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=290"
+  },
+  {
+    "id": 291,
+    "name": "Pastilha de Freio - SKU 291",
+    "price": 133.49,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=291"
+  },
+  {
+    "id": 292,
+    "name": "Filtro de Óleo - SKU 292",
+    "price": 40.1,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=292"
+  },
+  {
+    "id": 293,
+    "name": "Amortecedor - SKU 293",
+    "price": 293.25,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=293"
+  },
+  {
+    "id": 294,
+    "name": "Velas de Ignição - SKU 294",
+    "price": 58.16,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=294"
+  },
+  {
+    "id": 295,
+    "name": "Bateria Automotiva 60Ah - SKU 295",
+    "price": 544.87,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=295"
+  },
+  {
+    "id": 296,
+    "name": "Pastilha de Freio - SKU 296",
+    "price": 132.38,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=296"
+  },
+  {
+    "id": 297,
+    "name": "Filtro de Óleo - SKU 297",
+    "price": 41.09,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=297"
+  },
+  {
+    "id": 298,
+    "name": "Amortecedor - SKU 298",
+    "price": 303.82,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=298"
+  },
+  {
+    "id": 299,
+    "name": "Velas de Ignição - SKU 299",
+    "price": 58.96,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=299"
+  },
+  {
+    "id": 300,
+    "name": "Bateria Automotiva 60Ah - SKU 300",
+    "price": 533.41,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=300"
+  },
+  {
+    "id": 301,
+    "name": "Pastilha de Freio - SKU 301",
+    "price": 127.72,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=301"
+  },
+  {
+    "id": 302,
+    "name": "Filtro de Óleo - SKU 302",
+    "price": 40.37,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=302"
+  },
+  {
+    "id": 303,
+    "name": "Amortecedor - SKU 303",
+    "price": 308.78,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=303"
+  },
+  {
+    "id": 304,
+    "name": "Velas de Ignição - SKU 304",
+    "price": 61.1,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=304"
+  },
+  {
+    "id": 305,
+    "name": "Bateria Automotiva 60Ah - SKU 305",
+    "price": 545.57,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=305"
+  },
+  {
+    "id": 306,
+    "name": "Pastilha de Freio - SKU 306",
+    "price": 126.18,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=306"
+  },
+  {
+    "id": 307,
+    "name": "Filtro de Óleo - SKU 307",
+    "price": 38.98,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=307"
+  },
+  {
+    "id": 308,
+    "name": "Amortecedor - SKU 308",
+    "price": 301.01,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=308"
+  },
+  {
+    "id": 309,
+    "name": "Velas de Ignição - SKU 309",
+    "price": 61.52,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=309"
+  },
+  {
+    "id": 310,
+    "name": "Bateria Automotiva 60Ah - SKU 310",
+    "price": 563.94,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=310"
+  },
+  {
+    "id": 311,
+    "name": "Pastilha de Freio - SKU 311",
+    "price": 129.97,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=311"
+  },
+  {
+    "id": 312,
+    "name": "Filtro de Óleo - SKU 312",
+    "price": 38.9,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=312"
+  },
+  {
+    "id": 313,
+    "name": "Amortecedor - SKU 313",
+    "price": 291.65,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=313"
+  },
+  {
+    "id": 314,
+    "name": "Velas de Ignição - SKU 314",
+    "price": 59.62,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=314"
+  },
+  {
+    "id": 315,
+    "name": "Bateria Automotiva 60Ah - SKU 315",
+    "price": 562.19,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=315"
+  },
+  {
+    "id": 316,
+    "name": "Pastilha de Freio - SKU 316",
+    "price": 133.66,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=316"
+  },
+  {
+    "id": 317,
+    "name": "Filtro de Óleo - SKU 317",
+    "price": 40.25,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=317"
+  },
+  {
+    "id": 318,
+    "name": "Amortecedor - SKU 318",
+    "price": 294.11,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=318"
+  },
+  {
+    "id": 319,
+    "name": "Velas de Ignição - SKU 319",
+    "price": 58.12,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=319"
+  },
+  {
+    "id": 320,
+    "name": "Bateria Automotiva 60Ah - SKU 320",
+    "price": 542.84,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=320"
+  },
+  {
+    "id": 321,
+    "name": "Pastilha de Freio - SKU 321",
+    "price": 131.96,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=321"
+  },
+  {
+    "id": 322,
+    "name": "Filtro de Óleo - SKU 322",
+    "price": 41.1,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=322"
+  },
+  {
+    "id": 323,
+    "name": "Amortecedor - SKU 323",
+    "price": 304.86,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=323"
+  },
+  {
+    "id": 324,
+    "name": "Velas de Ignição - SKU 324",
+    "price": 59.17,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=324"
+  },
+  {
+    "id": 325,
+    "name": "Bateria Automotiva 60Ah - SKU 325",
+    "price": 533.6,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=325"
+  },
+  {
+    "id": 326,
+    "name": "Pastilha de Freio - SKU 326",
+    "price": 127.31,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=326"
+  },
+  {
+    "id": 327,
+    "name": "Filtro de Óleo - SKU 327",
+    "price": 40.22,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=327"
+  },
+  {
+    "id": 328,
+    "name": "Amortecedor - SKU 328",
+    "price": 308.5,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=328"
+  },
+  {
+    "id": 329,
+    "name": "Velas de Ignição - SKU 329",
+    "price": 61.27,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=329"
+  },
+  {
+    "id": 330,
+    "name": "Bateria Automotiva 60Ah - SKU 330",
+    "price": 547.72,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=330"
+  },
+  {
+    "id": 331,
+    "name": "Pastilha de Freio - SKU 331",
+    "price": 126.37,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=331"
+  },
+  {
+    "id": 332,
+    "name": "Filtro de Óleo - SKU 332",
+    "price": 38.89,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=332"
+  },
+  {
+    "id": 333,
+    "name": "Amortecedor - SKU 333",
+    "price": 299.82,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=333"
+  },
+  {
+    "id": 334,
+    "name": "Velas de Ignição - SKU 334",
+    "price": 61.4,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=334"
+  },
+  {
+    "id": 335,
+    "name": "Bateria Automotiva 60Ah - SKU 335",
+    "price": 564.96,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=335"
+  },
+  {
+    "id": 336,
+    "name": "Pastilha de Freio - SKU 336",
+    "price": 130.48,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=336"
+  },
+  {
+    "id": 337,
+    "name": "Filtro de Óleo - SKU 337",
+    "price": 39.0,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=337"
+  },
+  {
+    "id": 338,
+    "name": "Amortecedor - SKU 338",
+    "price": 291.25,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=338"
+  },
+  {
+    "id": 339,
+    "name": "Velas de Ignição - SKU 339",
+    "price": 59.38,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=339"
+  },
+  {
+    "id": 340,
+    "name": "Bateria Automotiva 60Ah - SKU 340",
+    "price": 560.63,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=340"
+  },
+  {
+    "id": 341,
+    "name": "Pastilha de Freio - SKU 341",
+    "price": 133.76,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=341"
+  },
+  {
+    "id": 342,
+    "name": "Filtro de Óleo - SKU 342",
+    "price": 40.4,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=342"
+  },
+  {
+    "id": 343,
+    "name": "Amortecedor - SKU 343",
+    "price": 295.07,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=343"
+  },
+  {
+    "id": 344,
+    "name": "Velas de Ignição - SKU 344",
+    "price": 58.1,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=344"
+  },
+  {
+    "id": 345,
+    "name": "Bateria Automotiva 60Ah - SKU 345",
+    "price": 540.93,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=345"
+  },
+  {
+    "id": 346,
+    "name": "Pastilha de Freio - SKU 346",
+    "price": 131.51,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=346"
+  },
+  {
+    "id": 347,
+    "name": "Filtro de Óleo - SKU 347",
+    "price": 41.08,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=347"
+  },
+  {
+    "id": 348,
+    "name": "Amortecedor - SKU 348",
+    "price": 305.81,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=348"
+  },
+  {
+    "id": 349,
+    "name": "Velas de Ignição - SKU 349",
+    "price": 59.4,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=349"
+  },
+  {
+    "id": 350,
+    "name": "Bateria Automotiva 60Ah - SKU 350",
+    "price": 534.08,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=350"
+  },
+  {
+    "id": 351,
+    "name": "Pastilha de Freio - SKU 351",
+    "price": 126.95,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=351"
+  },
+  {
+    "id": 352,
+    "name": "Filtro de Óleo - SKU 352",
+    "price": 40.07,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=352"
+  },
+  {
+    "id": 353,
+    "name": "Amortecedor - SKU 353",
+    "price": 308.08,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=353"
+  },
+  {
+    "id": 354,
+    "name": "Velas de Ignição - SKU 354",
+    "price": 61.41,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=354"
+  },
+  {
+    "id": 355,
+    "name": "Bateria Automotiva 60Ah - SKU 355",
+    "price": 549.9,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=355"
+  },
+  {
+    "id": 356,
+    "name": "Pastilha de Freio - SKU 356",
+    "price": 126.62,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=356"
+  },
+  {
+    "id": 357,
+    "name": "Filtro de Óleo - SKU 357",
+    "price": 38.81,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=357"
+  },
+  {
+    "id": 358,
+    "name": "Amortecedor - SKU 358",
+    "price": 298.63,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=358"
+  },
+  {
+    "id": 359,
+    "name": "Velas de Ignição - SKU 359",
+    "price": 61.26,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=359"
+  },
+  {
+    "id": 360,
+    "name": "Bateria Automotiva 60Ah - SKU 360",
+    "price": 565.72,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=360"
+  },
+  {
+    "id": 361,
+    "name": "Pastilha de Freio - SKU 361",
+    "price": 130.99,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=361"
+  },
+  {
+    "id": 362,
+    "name": "Filtro de Óleo - SKU 362",
+    "price": 39.11,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=362"
+  },
+  {
+    "id": 363,
+    "name": "Amortecedor - SKU 363",
+    "price": 291.0,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=363"
+  },
+  {
+    "id": 364,
+    "name": "Velas de Ignição - SKU 364",
+    "price": 59.16,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=364"
+  },
+  {
+    "id": 365,
+    "name": "Bateria Automotiva 60Ah - SKU 365",
+    "price": 558.88,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=365"
+  },
+  {
+    "id": 366,
+    "name": "Pastilha de Freio - SKU 366",
+    "price": 133.8,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=366"
+  },
+  {
+    "id": 367,
+    "name": "Filtro de Óleo - SKU 367",
+    "price": 40.54,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=367"
+  },
+  {
+    "id": 368,
+    "name": "Amortecedor - SKU 368",
+    "price": 296.12,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=368"
+  },
+  {
+    "id": 369,
+    "name": "Velas de Ignição - SKU 369",
+    "price": 58.12,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=369"
+  },
+  {
+    "id": 370,
+    "name": "Bateria Automotiva 60Ah - SKU 370",
+    "price": 539.17,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=370"
+  },
+  {
+    "id": 371,
+    "name": "Pastilha de Freio - SKU 371",
+    "price": 131.02,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=371"
+  },
+  {
+    "id": 372,
+    "name": "Filtro de Óleo - SKU 372",
+    "price": 41.05,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=372"
+  },
+  {
+    "id": 373,
+    "name": "Amortecedor - SKU 373",
+    "price": 306.66,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=373"
+  },
+  {
+    "id": 374,
+    "name": "Velas de Ignição - SKU 374",
+    "price": 59.63,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=374"
+  },
+  {
+    "id": 375,
+    "name": "Bateria Automotiva 60Ah - SKU 375",
+    "price": 534.84,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=375"
+  },
+  {
+    "id": 376,
+    "name": "Pastilha de Freio - SKU 376",
+    "price": 126.64,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=376"
+  },
+  {
+    "id": 377,
+    "name": "Filtro de Óleo - SKU 377",
+    "price": 39.91,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=377"
+  },
+  {
+    "id": 378,
+    "name": "Amortecedor - SKU 378",
+    "price": 307.51,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=378"
+  },
+  {
+    "id": 379,
+    "name": "Velas de Ignição - SKU 379",
+    "price": 61.53,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=379"
+  },
+  {
+    "id": 380,
+    "name": "Bateria Automotiva 60Ah - SKU 380",
+    "price": 552.08,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=380"
+  },
+  {
+    "id": 381,
+    "name": "Pastilha de Freio - SKU 381",
+    "price": 126.93,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=381"
+  },
+  {
+    "id": 382,
+    "name": "Filtro de Óleo - SKU 382",
+    "price": 38.76,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=382"
+  },
+  {
+    "id": 383,
+    "name": "Amortecedor - SKU 383",
+    "price": 297.46,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=383"
+  },
+  {
+    "id": 384,
+    "name": "Velas de Ignição - SKU 384",
+    "price": 61.09,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=384"
+  },
+  {
+    "id": 385,
+    "name": "Bateria Automotiva 60Ah - SKU 385",
+    "price": 566.2,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=385"
+  },
+  {
+    "id": 386,
+    "name": "Pastilha de Freio - SKU 386",
+    "price": 131.47,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=386"
+  },
+  {
+    "id": 387,
+    "name": "Filtro de Óleo - SKU 387",
+    "price": 39.24,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=387"
+  },
+  {
+    "id": 388,
+    "name": "Amortecedor - SKU 388",
+    "price": 290.9,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=388"
+  },
+  {
+    "id": 389,
+    "name": "Velas de Ignição - SKU 389",
+    "price": 58.95,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=389"
+  },
+  {
+    "id": 390,
+    "name": "Bateria Automotiva 60Ah - SKU 390",
+    "price": 556.96,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=390"
+  },
+  {
+    "id": 391,
+    "name": "Pastilha de Freio - SKU 391",
+    "price": 133.76,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=391"
+  },
+  {
+    "id": 392,
+    "name": "Filtro de Óleo - SKU 392",
+    "price": 40.67,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=392"
+  },
+  {
+    "id": 393,
+    "name": "Amortecedor - SKU 393",
+    "price": 297.23,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=393"
+  },
+  {
+    "id": 394,
+    "name": "Velas de Ignição - SKU 394",
+    "price": 58.17,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=394"
+  },
+  {
+    "id": 395,
+    "name": "Bateria Automotiva 60Ah - SKU 395",
+    "price": 537.61,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=395"
+  },
+  {
+    "id": 396,
+    "name": "Pastilha de Freio - SKU 396",
+    "price": 130.52,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=396"
+  },
+  {
+    "id": 397,
+    "name": "Filtro de Óleo - SKU 397",
+    "price": 41.0,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=397"
+  },
+  {
+    "id": 398,
+    "name": "Amortecedor - SKU 398",
+    "price": 307.38,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=398"
+  },
+  {
+    "id": 399,
+    "name": "Velas de Ignição - SKU 399",
+    "price": 59.87,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=399"
+  },
+  {
+    "id": 400,
+    "name": "Bateria Automotiva 60Ah - SKU 400",
+    "price": 535.86,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=400"
+  },
+  {
+    "id": 401,
+    "name": "Pastilha de Freio - SKU 401",
+    "price": 126.39,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=401"
+  },
+  {
+    "id": 402,
+    "name": "Filtro de Óleo - SKU 402",
+    "price": 39.75,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=402"
+  },
+  {
+    "id": 403,
+    "name": "Amortecedor - SKU 403",
+    "price": 306.81,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=403"
+  },
+  {
+    "id": 404,
+    "name": "Velas de Ignição - SKU 404",
+    "price": 61.61,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=404"
+  },
+  {
+    "id": 405,
+    "name": "Bateria Automotiva 60Ah - SKU 405",
+    "price": 554.23,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=405"
+  },
+  {
+    "id": 406,
+    "name": "Pastilha de Freio - SKU 406",
+    "price": 127.29,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=406"
+  },
+  {
+    "id": 407,
+    "name": "Filtro de Óleo - SKU 407",
+    "price": 38.72,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=407"
+  },
+  {
+    "id": 408,
+    "name": "Amortecedor - SKU 408",
+    "price": 296.34,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=408"
+  },
+  {
+    "id": 409,
+    "name": "Velas de Ignição - SKU 409",
+    "price": 60.9,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=409"
+  },
+  {
+    "id": 410,
+    "name": "Bateria Automotiva 60Ah - SKU 410",
+    "price": 566.39,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=410"
+  },
+  {
+    "id": 411,
+    "name": "Pastilha de Freio - SKU 411",
+    "price": 131.93,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=411"
+  },
+  {
+    "id": 412,
+    "name": "Filtro de Óleo - SKU 412",
+    "price": 39.38,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=412"
+  },
+  {
+    "id": 413,
+    "name": "Amortecedor - SKU 413",
+    "price": 290.97,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=413"
+  },
+  {
+    "id": 414,
+    "name": "Velas de Ignição - SKU 414",
+    "price": 58.76,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=414"
+  },
+  {
+    "id": 415,
+    "name": "Bateria Automotiva 60Ah - SKU 415",
+    "price": 554.93,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=415"
+  },
+  {
+    "id": 416,
+    "name": "Pastilha de Freio - SKU 416",
+    "price": 133.66,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=416"
+  },
+  {
+    "id": 417,
+    "name": "Filtro de Óleo - SKU 417",
+    "price": 40.78,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=417"
+  },
+  {
+    "id": 418,
+    "name": "Amortecedor - SKU 418",
+    "price": 298.39,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=418"
+  },
+  {
+    "id": 419,
+    "name": "Velas de Ignição - SKU 419",
+    "price": 58.25,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=419"
+  },
+  {
+    "id": 420,
+    "name": "Bateria Automotiva 60Ah - SKU 420",
+    "price": 536.26,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=420"
+  },
+  {
+    "id": 421,
+    "name": "Pastilha de Freio - SKU 421",
+    "price": 130.0,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=421"
+  },
+  {
+    "id": 422,
+    "name": "Filtro de Óleo - SKU 422",
+    "price": 40.92,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=422"
+  },
+  {
+    "id": 423,
+    "name": "Amortecedor - SKU 423",
+    "price": 307.98,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=423"
+  },
+  {
+    "id": 424,
+    "name": "Velas de Ignição - SKU 424",
+    "price": 60.11,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=424"
+  },
+  {
+    "id": 425,
+    "name": "Bateria Automotiva 60Ah - SKU 425",
+    "price": 537.13,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=425"
+  },
+  {
+    "id": 426,
+    "name": "Pastilha de Freio - SKU 426",
+    "price": 126.19,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=426"
+  },
+  {
+    "id": 427,
+    "name": "Filtro de Óleo - SKU 427",
+    "price": 39.6,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=427"
+  },
+  {
+    "id": 428,
+    "name": "Amortecedor - SKU 428",
+    "price": 305.99,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=428"
+  },
+  {
+    "id": 429,
+    "name": "Velas de Ignição - SKU 429",
+    "price": 61.67,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=429"
+  },
+  {
+    "id": 430,
+    "name": "Bateria Automotiva 60Ah - SKU 430",
+    "price": 556.3,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=430"
+  },
+  {
+    "id": 431,
+    "name": "Pastilha de Freio - SKU 431",
+    "price": 127.69,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=431"
+  },
+  {
+    "id": 432,
+    "name": "Filtro de Óleo - SKU 432",
+    "price": 38.7,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=432"
+  },
+  {
+    "id": 433,
+    "name": "Amortecedor - SKU 433",
+    "price": 295.28,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=433"
+  },
+  {
+    "id": 434,
+    "name": "Velas de Ignição - SKU 434",
+    "price": 60.7,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=434"
+  },
+  {
+    "id": 435,
+    "name": "Bateria Automotiva 60Ah - SKU 435",
+    "price": 566.3,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=435"
+  },
+  {
+    "id": 436,
+    "name": "Pastilha de Freio - SKU 436",
+    "price": 132.35,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=436"
+  },
+  {
+    "id": 437,
+    "name": "Filtro de Óleo - SKU 437",
+    "price": 39.53,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=437"
+  },
+  {
+    "id": 438,
+    "name": "Amortecedor - SKU 438",
+    "price": 291.19,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=438"
+  },
+  {
+    "id": 439,
+    "name": "Velas de Ignição - SKU 439",
+    "price": 58.58,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=439"
+  },
+  {
+    "id": 440,
+    "name": "Bateria Automotiva 60Ah - SKU 440",
+    "price": 552.81,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=440"
+  },
+  {
+    "id": 441,
+    "name": "Pastilha de Freio - SKU 441",
+    "price": 133.5,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=441"
+  },
+  {
+    "id": 442,
+    "name": "Filtro de Óleo - SKU 442",
+    "price": 40.88,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=442"
+  },
+  {
+    "id": 443,
+    "name": "Amortecedor - SKU 443",
+    "price": 299.58,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=443"
+  },
+  {
+    "id": 444,
+    "name": "Velas de Ignição - SKU 444",
+    "price": 58.35,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=444"
+  },
+  {
+    "id": 445,
+    "name": "Bateria Automotiva 60Ah - SKU 445",
+    "price": 535.15,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=445"
+  },
+  {
+    "id": 446,
+    "name": "Pastilha de Freio - SKU 446",
+    "price": 129.49,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=446"
+  },
+  {
+    "id": 447,
+    "name": "Filtro de Óleo - SKU 447",
+    "price": 40.83,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=447"
+  },
+  {
+    "id": 448,
+    "name": "Amortecedor - SKU 448",
+    "price": 308.43,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=448"
+  },
+  {
+    "id": 449,
+    "name": "Velas de Ignição - SKU 449",
+    "price": 60.34,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=449"
+  },
+  {
+    "id": 450,
+    "name": "Bateria Automotiva 60Ah - SKU 450",
+    "price": 538.63,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=450"
+  },
+  {
+    "id": 451,
+    "name": "Pastilha de Freio - SKU 451",
+    "price": 126.07,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=451"
+  },
+  {
+    "id": 452,
+    "name": "Filtro de Óleo - SKU 452",
+    "price": 39.45,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=452"
+  },
+  {
+    "id": 453,
+    "name": "Amortecedor - SKU 453",
+    "price": 305.06,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=453"
+  },
+  {
+    "id": 454,
+    "name": "Velas de Ignição - SKU 454",
+    "price": 61.7,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=454"
+  },
+  {
+    "id": 455,
+    "name": "Bateria Automotiva 60Ah - SKU 455",
+    "price": 558.25,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=455"
+  },
+  {
+    "id": 456,
+    "name": "Pastilha de Freio - SKU 456",
+    "price": 128.14,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=456"
+  },
+  {
+    "id": 457,
+    "name": "Filtro de Óleo - SKU 457",
+    "price": 38.71,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=457"
+  },
+  {
+    "id": 458,
+    "name": "Amortecedor - SKU 458",
+    "price": 294.3,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=458"
+  },
+  {
+    "id": 459,
+    "name": "Velas de Ignição - SKU 459",
+    "price": 60.48,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=459"
+  },
+  {
+    "id": 460,
+    "name": "Bateria Automotiva 60Ah - SKU 460",
+    "price": 565.91,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=460"
+  },
+  {
+    "id": 461,
+    "name": "Pastilha de Freio - SKU 461",
+    "price": 132.73,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=461"
+  },
+  {
+    "id": 462,
+    "name": "Filtro de Óleo - SKU 462",
+    "price": 39.68,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=462"
+  },
+  {
+    "id": 463,
+    "name": "Amortecedor - SKU 463",
+    "price": 291.56,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=463"
+  },
+  {
+    "id": 464,
+    "name": "Velas de Ignição - SKU 464",
+    "price": 58.43,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=464"
+  },
+  {
+    "id": 465,
+    "name": "Bateria Automotiva 60Ah - SKU 465",
+    "price": 550.63,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=465"
+  },
+  {
+    "id": 466,
+    "name": "Pastilha de Freio - SKU 466",
+    "price": 133.27,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=466"
+  },
+  {
+    "id": 467,
+    "name": "Filtro de Óleo - SKU 467",
+    "price": 40.97,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=467"
+  },
+  {
+    "id": 468,
+    "name": "Amortecedor - SKU 468",
+    "price": 300.77,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=468"
+  },
+  {
+    "id": 469,
+    "name": "Velas de Ignição - SKU 469",
+    "price": 58.49,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=469"
+  },
+  {
+    "id": 470,
+    "name": "Bateria Automotiva 60Ah - SKU 470",
+    "price": 534.3,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=470"
+  },
+  {
+    "id": 471,
+    "name": "Pastilha de Freio - SKU 471",
+    "price": 128.98,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=471"
+  },
+  {
+    "id": 472,
+    "name": "Filtro de Óleo - SKU 472",
+    "price": 40.73,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=472"
+  },
+  {
+    "id": 473,
+    "name": "Amortecedor - SKU 473",
+    "price": 308.73,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=473"
+  },
+  {
+    "id": 474,
+    "name": "Velas de Ignição - SKU 474",
+    "price": 60.57,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=474"
+  },
+  {
+    "id": 475,
+    "name": "Bateria Automotiva 60Ah - SKU 475",
+    "price": 540.32,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=475"
+  },
+  {
+    "id": 476,
+    "name": "Pastilha de Freio - SKU 476",
+    "price": 126.01,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=476"
+  },
+  {
+    "id": 477,
+    "name": "Filtro de Óleo - SKU 477",
+    "price": 39.3,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=477"
+  },
+  {
+    "id": 478,
+    "name": "Amortecedor - SKU 478",
+    "price": 304.04,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=478"
+  },
+  {
+    "id": 479,
+    "name": "Velas de Ignição - SKU 479",
+    "price": 61.69,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=479"
+  },
+  {
+    "id": 480,
+    "name": "Bateria Automotiva 60Ah - SKU 480",
+    "price": 560.06,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=480"
+  },
+  {
+    "id": 481,
+    "name": "Pastilha de Freio - SKU 481",
+    "price": 128.61,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=481"
+  },
+  {
+    "id": 482,
+    "name": "Filtro de Óleo - SKU 482",
+    "price": 38.74,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=482"
+  },
+  {
+    "id": 483,
+    "name": "Amortecedor - SKU 483",
+    "price": 293.41,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=483"
+  },
+  {
+    "id": 484,
+    "name": "Velas de Ignição - SKU 484",
+    "price": 60.25,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=484"
+  },
+  {
+    "id": 485,
+    "name": "Bateria Automotiva 60Ah - SKU 485",
+    "price": 565.24,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=485"
+  },
+  {
+    "id": 486,
+    "name": "Pastilha de Freio - SKU 486",
+    "price": 133.06,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=486"
+  },
+  {
+    "id": 487,
+    "name": "Filtro de Óleo - SKU 487",
+    "price": 39.84,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=487"
+  },
+  {
+    "id": 488,
+    "name": "Amortecedor - SKU 488",
+    "price": 292.08,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=488"
+  },
+  {
+    "id": 489,
+    "name": "Velas de Ignição - SKU 489",
+    "price": 58.31,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=489"
+  },
+  {
+    "id": 490,
+    "name": "Bateria Automotiva 60Ah - SKU 490",
+    "price": 548.44,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=490"
+  },
+  {
+    "id": 491,
+    "name": "Pastilha de Freio - SKU 491",
+    "price": 132.98,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=491"
+  },
+  {
+    "id": 492,
+    "name": "Filtro de Óleo - SKU 492",
+    "price": 41.03,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=492"
+  },
+  {
+    "id": 493,
+    "name": "Amortecedor - SKU 493",
+    "price": 301.95,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=493"
+  },
+  {
+    "id": 494,
+    "name": "Velas de Ignição - SKU 494",
+    "price": 58.65,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=494"
+  },
+  {
+    "id": 495,
+    "name": "Bateria Automotiva 60Ah - SKU 495",
+    "price": 533.73,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=495"
+  },
+  {
+    "id": 496,
+    "name": "Pastilha de Freio - SKU 496",
+    "price": 128.48,
+    "img": "https://images.unsplash.com/photo-1518544883145-0b9a5d5b7a8f?q=80&w=800&auto=format&fit=crop&sig=496"
+  },
+  {
+    "id": 497,
+    "name": "Filtro de Óleo - SKU 497",
+    "price": 40.6,
+    "img": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=800&auto=format&fit=crop&sig=497"
+  },
+  {
+    "id": 498,
+    "name": "Amortecedor - SKU 498",
+    "price": 308.88,
+    "img": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?q=80&w=800&auto=format&fit=crop&sig=498"
+  },
+  {
+    "id": 499,
+    "name": "Velas de Ignição - SKU 499",
+    "price": 60.78,
+    "img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=800&auto=format&fit=crop&sig=499"
+  },
+  {
+    "id": 500,
+    "name": "Bateria Automotiva 60Ah - SKU 500",
+    "price": 542.18,
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=800&auto=format&fit=crop&sig=500"
+  }
+]
+
+ 
